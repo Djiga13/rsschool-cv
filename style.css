@@ -176,3 +176,10 @@ footer img{
     right: 0;
 
 }
+.git {
+    height: 45px;
+    text-align: left;
+    position: absolute;
+    left: 70px;
+}
+
